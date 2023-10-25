@@ -11,7 +11,7 @@ public class Main extends Canvas implements Runnable {
 
     Board board;
 
-    int size = 20;
+    int size = 40;
 
     public Main() {
         new MainWindow(this);
